@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/shurcooL/githubv4"
+	"github.com/SporkHubr/githubv4"
 	"golang.org/x/oauth2"
 )
 

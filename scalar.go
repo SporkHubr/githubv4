@@ -7,7 +7,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/shurcooL/graphql"
+	"github.com/SporkHubr/graphql"
 )
 
 // Note: These custom types are meant to be used in queries for now.
